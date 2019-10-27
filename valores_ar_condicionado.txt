@@ -1,0 +1,2 @@
+liga/desliga: 676003840, 541720576
+temp: [min:18°] 4294967289, vai aumentando de 1 em 1, [max:30°] 4294967295
