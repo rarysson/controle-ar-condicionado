@@ -54,7 +54,7 @@ void setup() {
     
     Serial.begin(9600);
     Serial.println("AJUSTE A TEMPERATURA QUE VOCE QUER");
-    Serial.println("Quando quiser começar a monitorar digite qualquer coisa");
+    Serial.println("Quando quiser começar a monitorar envie qualquer coisa pela Serial");
 }
 
 void loop() {
